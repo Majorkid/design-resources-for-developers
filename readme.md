@@ -406,6 +406,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
+| [Animatopy](https://sarthology.github.io/Animatopy/)| No need to Download Animate.css, Just copy the code. |
 | [Bootstrap](https://getbootstrap.com/)| Popular UI framework with tons of components that use both CSS and JS |
 | [Materialize](https://materializecss.com/)| A modern responsive front-end framework based on Material Design |
 | [Material Design Lite](https://getmdl.io/)| Light framework based on Material Design. No JS dependency |
